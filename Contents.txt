@@ -1,0 +1,10 @@
+Contents:
+
+Supervised Learning:
+	Regression:
+		datasets:
+			fromkaggle:
+				house-prices-advanced-regression-techniques:
+					- It has all the data files need for the task
+	
+	Classification:
